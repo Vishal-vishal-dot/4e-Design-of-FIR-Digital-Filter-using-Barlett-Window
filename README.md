@@ -40,7 +40,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR LPF using Bartlett Window'); 
 ```
 # CALCULATION:
-![Bartlett manu](https://github.com/user-attachments/assets/9d53ad06-084a-41f9-a6b7-59650efac284)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/889d4c0d-2a8c-4837-8def-099e5a8358ab" />
+
 
 # OUTPUT:
 <img width="454" height="440" alt="LPF-Bartlett calculation" src="https://github.com/user-attachments/assets/8691f404-3620-47f6-9fad-68e09119e6cd" />
@@ -90,7 +91,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR HPF using Bartlett Window'); 
 ```
 # CALCULATION:
-![Bartlett](https://github.com/user-attachments/assets/e6609b87-cbb0-4af3-8470-121ba90dc2e6)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/9a03d862-11ec-46c7-abd3-913e341b4de4" />
+
 
 # OUTPUT:
 <img width="471" height="474" alt="HPF-Bartlett Calculation" src="https://github.com/user-attachments/assets/fb14fcbe-c5ae-490e-bf4e-fcf44b2e94ed" />
@@ -141,7 +143,7 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR BPF using Bartlett Window');
 ```
 # CALCULATION:
-![Bartlett](https://github.com/user-attachments/assets/4b40e38d-87a0-4a4f-8b2c-181bb264ff25)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/a755465e-4bd2-44d2-804c-58279ad18a2f" />
 
 # OUTPUT:
 <img width="528" height="456" alt="BPF-Bartlett  Calculation" src="https://github.com/user-attachments/assets/483519bd-99b8-4867-a46b-91c3b41de5cf" />
@@ -192,7 +194,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR BSF using Bartlett Window');
 ```
 # CALCULATION:
-![Bartlett](https://github.com/user-attachments/assets/a39ef3ec-2485-4fd1-a090-4ab715d3ad19)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/b88eca8f-77e0-4dc4-a815-6968526e5b15" />
+
 
 # OUTPUT:
 <img width="594" height="509" alt="BSF-Bartlett Calculation" src="https://github.com/user-attachments/assets/e882601d-854e-41e0-8666-66e2fcfe8eb9" />
